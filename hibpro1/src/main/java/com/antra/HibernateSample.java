@@ -27,7 +27,7 @@ public class HibernateSample {
 		
 		getEmployeeJPQL();
 		
-		
+		//1
 		/*EntityManager em=EMF.createEntityManager();
 		em.getTransaction().begin();
 		Employee emp=em.find(Employee.class, 3);
